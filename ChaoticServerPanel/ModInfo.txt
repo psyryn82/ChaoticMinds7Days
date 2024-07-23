@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <Name value="Chaotic_Server_Info_Panel"/>
+    <DisplayName value="Info Panel" />
+    <Version value="0.0.0.6" />
+    <Description value="Information panel for the Chaotic Minds server"/>
+    <Author value="Psyryn82" />
+    <Website value="https://ChaoticMindsgaming.com/" />
+</xml>
